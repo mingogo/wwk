@@ -1,0 +1,15 @@
+werewelfs 2
+people 2
+witches 1
+guards 1
+chipiter 1
+God 1
+
+chipiter.lovers();
+while(werewolfs.number!=people.number() && !werewolfs.number().equles(0)){
+	werewelfs.kill();
+	witches.medison();
+	guards.save();
+	god.announceWhoIdKilled();
+	god.voteToDead();
+}
